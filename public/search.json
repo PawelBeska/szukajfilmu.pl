@@ -1,0 +1,115 @@
+[
+  
+    {
+      "title"    : "How To Setup Domain SSL With Github Pages",
+      "category" : "2",
+      "tags"     : "featured",
+      "url"      : "/docs/assets/",
+      "date"     : "23.23.23"
+    } ,
+  
+    {
+      "title"    : "Category hosting Setting up new domain and page",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/collections/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Purchasing domain name and DNS setup",
+      "category" : "",
+      "tags"     : "othertag",
+      "url"      : "/docs/configuration/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Cancelling a website subscription",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/drafts/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Settings up Jekkyl on Github pages",
+      "category" : "",
+      "tags"     : "othertag",
+      "url"      : "/docs/frontmatter/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Creating new page in Jekyll and publishing",
+      "category" : "",
+      "tags"     : "featured, othertag",
+      "url"      : "/docs/home/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Getting started with our application",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/installation/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Updating your billing credit card",
+      "category" : "",
+      "tags"     : "othertag",
+      "url"      : "/docs/pages/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Accepted currencies for product billing",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/posts/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Getting a JavaScript console error",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/quickstart/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Upgrading to paid service",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/docs/structure/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Design tips for choosing great images",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/docs/usage/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Understanding company billing and accounts",
+      "category" : "",
+      "tags"     : "featured",
+      "url"      : "/docs/variables/",
+      "date"     : ""
+    } ,
+  
+    {
+      "title"    : "Selecting the right fonts and colors",
+      "category" : "",
+      "tags"     : "othertag",
+      "url"      : "/docs/windows/",
+      "date"     : ""
+    } 
+  
+]
